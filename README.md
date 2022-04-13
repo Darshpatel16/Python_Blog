@@ -6,8 +6,7 @@ Mentor: Prof. Trusha Mam
 Topic:-       PYTHON DESIGN PATTERN
 
 Wordpress Link:-
-https://pythondesignpatten.blogspot.com/2022/04/py
-thon-design-pattern.html
+https://pythondesignpatten.blogspot.com/2022/04/python-design-pattern.html
 
 Presenters:
 
